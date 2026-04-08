@@ -1,0 +1,17 @@
+{
+  "project": "Bogdan066",
+  "platform": "ios",
+  "github": {
+    "owner": "Bogdan066",
+    "repo": "clean_ios_app"
+  },
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {
+    "version": "3.41.6",
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
